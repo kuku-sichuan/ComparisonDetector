@@ -1,4 +1,4 @@
-## Comparison Detector: Convolutional Neural Networks for Cervical Cell Detection in the Limited-data Scenario
+## Comparison-Based Convolutional Neural Networks for Cervical Cell/Clumps Detection in the Limited Data Scenario
 
 ### abstract
 Automated detection of cervical cancer cells or cell clumps has the potential to significantly
