@@ -24,3 +24,6 @@ If you want to check the effect, you can download the test set in [here](https:/
 ### Evaluation and Prediction
 
 We provide `evaluate_network.ipynb` to verify our results. We also provide `predict.ipynb` to predict results of a single picture.
+
+### Dataset Link
+google drive [here](https://drive.google.com/drive/folders/1YzPkv6rHLNQXA6QmEUoCl9mWV9fQFsik)
