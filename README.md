@@ -30,12 +30,12 @@ The dataset consists of 7410 cervical microscopical images which are cropped fro
 
 __Original image cropped from WSI__
 <p align="center">
-  <img width="450" src="https://github.com/ZhiHuaYin/ComparisonDetector/blob/master/images/README/orig.jpg" />
+  <img width="450" src="https://github.com/kuku-sichuan/ComparisonDetector/blob/master/images/README/orig.jpg" />
 </p>
 
 __Some instances in 11 categories__
 <p align="center">
-  <img width="500" src="https://github.com/ZhiHuaYin/ComparisonDetector/blob/master/images/README/categories.png" />
+  <img width="500" src="https://github.com/kuku-sichuan/ComparisonDetector/blob/master/images/README/categories.png" />
 </p>
 
 The dataset is available on Google driver [here](https://drive.google.com/drive/folders/1YzPkv6rHLNQXA6QmEUoCl9mWV9fQFsik).
