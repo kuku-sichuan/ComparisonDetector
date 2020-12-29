@@ -26,7 +26,7 @@ If you want to check the effect, you can download the test set in [here](https:/
 We provide `evaluate_network.ipynb` to verify our results. We also provide `predict.ipynb` to predict results of a single picture.
 
 ### Dataset
-The dataset consists of 7410 cervical microscopical images which are cropped from the whole slide images (WSIs) obtained by Pannoramic MIDI II digital slide scanner. In the dataset, there are totally 48,587 instances belonging to 11 categories. We randonly divide the dataset into training set D<sub>f</sub> which contains 6666 images and test set which contains 744 images. The small training set D<sub>s</sub> contains 762 images randomly choosed from D<sub>f</sub>.
+The dataset consists of 7410 cervical microscopical images which are cropped from the whole slide images (WSIs) obtained by Pannoramic MIDI II digital slide scanner. In the dataset, there are totally 48,587 instances belonging to 11 categories. We randomly divide the dataset into training set D<sub>f</sub> which contains 6666 images and test set which contains 744 images. The small training set D<sub>s</sub> contains 762 images randomly chosen from D<sub>f</sub>.
 
 __Original image cropped from WSI__
 <p align="center">
