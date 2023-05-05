@@ -1,3 +1,5 @@
+# NOTICE!!!!
+you can get code and dataset in new [address](https://github.com/CVIU-CSU/ComparisonDetector)
 # NEW VERSION WILL UPDATE!
 
 ## Comparison-Based Convolutional Neural Networks for Cervical Cell/Clumps Detection in the Limited Data Scenario
